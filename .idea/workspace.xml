@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44fcfcc-69d9-46a6-9717-6851315965cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+    <list default="true" id="b44fcfcc-69d9-46a6-9717-6851315965cf" name="Changes" comment="Repositories are Created">
+      <change afterPath="$PROJECT_DIR$/src/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +34,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IntPalindrome.executor": "Run",
     "Application.MathTable.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.RomanToInteger.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -55,23 +49,30 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IntPalindrome">
+  <component name="RunManager" selected="Application.RomanToInteger">
     <configuration name="IntPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="IntPalindrome.IntPalindrome" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MathTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathTable" />
+      <option name="MAIN_CLASS_NAME" value="MathTable.MathTable" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber.PrimeNumber" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomanToInteger.RomanToInteger" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RomanToInteger" />
         <item itemvalue="Application.IntPalindrome" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.MathTable" />
@@ -93,11 +95,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739324638835</updated>
-      <workItem from="1739324639883" duration="727000" />
+      <workItem from="1739324639883" duration="2824000" />
     </task>
+    <task id="LOCAL-00001" summary="Repositories are Created">
+      <option name="closed" value="true" />
+      <created>1739325626248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739325626248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Repositories are Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repositories are Created" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package PrimeNumber;
+
 import java.math.BigInteger;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package IntPalindrome;
+
 import java.util.Scanner;
 
 public class IntPalindrome{

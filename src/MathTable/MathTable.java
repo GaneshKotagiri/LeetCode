@@ -1,3 +1,5 @@
+package MathTable;
+
 import java.util.Scanner;
 public class MathTable {
     public static void main(String[] args) {
